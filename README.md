@@ -1,1 +1,2 @@
 # roboticsblog
+The project is a web application developed on HTML, CSS, PHP, MySQL. The web application provides a platform to Robotics Engineers through various technical blogs on robotics. It’s based on motivation to design a full stack website that contains interactive front end and well-connected database as backend. The website consists of Home, Login, Register, Contact us and About pages. A client is required to register on website and then login in order read the blog on robotics.
